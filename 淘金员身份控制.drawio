@@ -1,20 +1,20 @@
-<mxfile host="app.diagrams.net" modified="2023-06-27T07:25:38.950Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.58" etag="81fXb44AT0KVLlBYM_8O" version="21.5.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-27T07:47:48.632Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.58" etag="jPobNF4ySDNpW0-VSXWt" version="21.5.0" type="github">
   <diagram name="第 1 页" id="U_sjuf_lWmJBDMzV499A">
     <mxGraphModel dx="1626" dy="788" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="Er62Z0cQib9WhrHs04Ta-1" value="Pool" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;startSize=20;html=1;" vertex="1" parent="1">
-          <mxGeometry x="180" y="150" width="360" height="600" as="geometry" />
+        <mxCell id="Er62Z0cQib9WhrHs04Ta-1" value="淘金员" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;startSize=20;html=1;" vertex="1" parent="1">
+          <mxGeometry x="39" y="60" width="770" height="750" as="geometry" />
         </mxCell>
-        <mxCell id="Er62Z0cQib9WhrHs04Ta-2" value="Lane 1" style="swimlane;startSize=20;html=1;" vertex="1" parent="Er62Z0cQib9WhrHs04Ta-1">
-          <mxGeometry y="20" width="120" height="580" as="geometry" />
+        <mxCell id="Er62Z0cQib9WhrHs04Ta-2" value="消费者" style="swimlane;startSize=20;html=1;" vertex="1" parent="Er62Z0cQib9WhrHs04Ta-1">
+          <mxGeometry y="20" width="250" height="730" as="geometry" />
         </mxCell>
-        <mxCell id="Er62Z0cQib9WhrHs04Ta-3" value="Lane 2" style="swimlane;startSize=20;html=1;" vertex="1" parent="Er62Z0cQib9WhrHs04Ta-1">
-          <mxGeometry x="120" y="20" width="120" height="580" as="geometry" />
+        <mxCell id="Er62Z0cQib9WhrHs04Ta-3" value="店家" style="swimlane;startSize=20;html=1;" vertex="1" parent="Er62Z0cQib9WhrHs04Ta-1">
+          <mxGeometry x="250" y="20" width="270" height="730" as="geometry" />
         </mxCell>
-        <mxCell id="Er62Z0cQib9WhrHs04Ta-4" value="Lane 3" style="swimlane;startSize=20;html=1;" vertex="1" parent="Er62Z0cQib9WhrHs04Ta-1">
-          <mxGeometry x="240" y="20" width="120" height="580" as="geometry" />
+        <mxCell id="Er62Z0cQib9WhrHs04Ta-4" value="经销商" style="swimlane;startSize=20;html=1;" vertex="1" parent="Er62Z0cQib9WhrHs04Ta-1">
+          <mxGeometry x="520" y="20" width="250" height="730" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
