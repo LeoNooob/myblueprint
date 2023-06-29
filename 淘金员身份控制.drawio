@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-29T01:27:54.182Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.58" etag="XE9DYUOET-RirEp5UxHQ" version="21.5.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-29T01:54:42.302Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.58" etag="S8ljQgsdiX_4Ju_--A5E" version="21.5.1" type="github">
   <diagram name="第 1 页" id="U_sjuf_lWmJBDMzV499A">
     <mxGraphModel dx="2860" dy="985" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -214,8 +214,14 @@
         <mxCell id="dmZfvVokt4QQ__Cv-UdC-16" value="注册成为经销商" style="rounded=1;whiteSpace=wrap;html=1;" parent="Er62Z0cQib9WhrHs04Ta-4" vertex="1">
           <mxGeometry x="72.5" y="125" width="105" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="wWsz9UDtGzaw-BMOfdtV-70" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="Er62Z0cQib9WhrHs04Ta-4" source="wWsz9UDtGzaw-BMOfdtV-65" target="wWsz9UDtGzaw-BMOfdtV-69">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="wWsz9UDtGzaw-BMOfdtV-65" value="经销商信息/管理" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="Er62Z0cQib9WhrHs04Ta-4">
           <mxGeometry x="72.5" y="200" width="105" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wWsz9UDtGzaw-BMOfdtV-69" value="经销商信息/管理" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="Er62Z0cQib9WhrHs04Ta-4">
+          <mxGeometry x="72.5" y="280" width="105" height="30" as="geometry" />
         </mxCell>
         <mxCell id="dmZfvVokt4QQ__Cv-UdC-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="Er62Z0cQib9WhrHs04Ta-1" source="dmZfvVokt4QQ__Cv-UdC-11" target="dmZfvVokt4QQ__Cv-UdC-14" edge="1">
           <mxGeometry relative="1" as="geometry" />
